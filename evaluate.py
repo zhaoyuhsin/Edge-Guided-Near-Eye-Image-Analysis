@@ -354,7 +354,7 @@ if __name__=='__main__':
     # args.method = 'baseline'
 
     # # edge
-    model_file = 'logs/baseline_edge_16.pkl'
+    model_file = 'baseline_edge_16.pkl'
     setting_file = 'configs/baseline_edge.yaml'
     args.method = ''
 
